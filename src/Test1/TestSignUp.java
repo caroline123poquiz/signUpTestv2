@@ -139,8 +139,8 @@ public class TestSignUp {
 
 	private static Map<String,String> generateEmails() {
 		Map<String, String> emailLoginMap = new HashMap<>();
-		emailLoginMap.put("trmr000111@gmail.com", "password@1");
-		//emailLoginMap.put("trmr999006@gmail.com", "password@1");	
+		emailLoginMap.put("trmr999005@gmail.com", "password@1");
+		emailLoginMap.put("trmr999006@gmail.com", "password@1");	
 		return emailLoginMap;
 	}
 
